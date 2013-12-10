@@ -1,10 +1,10 @@
 {
     "minimum-stability": "dev",
-    
+
     "require": {
         "pyrocms/lex": "2.2.*",
         "doctrine/dbal": "2.4.x",
-        "cartalyst/sentry": "2.0.*",
+        "cartalyst/sentry": "3.0.*",
         "dflydev/markdown": "1.0.*",
         "ircmaxell/password-compat": "1.0.*",
         "illuminate/database": "4.0.*",
@@ -17,7 +17,7 @@
         "tijsverkoyen/akismet": "1.1.*",
         "loic-sharma/profiler": "1.1.*"
     },
-    
+
     "autoload": {
         "classmap": [
             "system/cms/controllers",
