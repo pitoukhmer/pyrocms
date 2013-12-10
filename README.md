@@ -61,6 +61,7 @@ It's strongly recommended that you download the [git-flow client](https://github
 * [Ryan Thompson](http://aiwebsystems.com)
 * [Scott Parry](http://ikreativ.com/)
 * [Steve Williamson](http://sjdub.com)
+* [Ben Corlett](http://www.webcomm.com.au/)
 * [Andrew Smith](http://silentworks.co.uk)
 * [Dave Shoreman](http://codeM0nK3Y.com/)
 
